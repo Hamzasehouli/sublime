@@ -145,6 +145,13 @@ h1 span {
   margin-right: 25px;
 }
 
+.section-presentation,
+.section-adresse,
+.section-specialites {
+  max-width: 1420px;
+  margin: 0 auto;
+}
+
 /* .section-presentation .row {
   position: relative;
   top: 0;
